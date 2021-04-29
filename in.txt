@@ -1,0 +1,5 @@
+Pre Xcode 4.x
+Right click the executable in your Xcode project and pick "Get Info". Then pick the "arguments" tab and you can set arguments to pass when you run or debug your program from inside Xcode.
+
+Xcode 4.x or later
+Go to the Product menu, select "Edit Scheme", then select the arguments tab and add the arguments there.
